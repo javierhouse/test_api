@@ -1,6 +1,5 @@
 namespace unit_test_api;
 
-
 public class UnitTest1
 {
     private readonly ILogger<WeatherForecastController> _logger;
