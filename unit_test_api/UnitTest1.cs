@@ -21,8 +21,7 @@ public class UnitTest1
         var result = controller.Get();
         
         //Assert
-        result.Should().NotBeNull();
-        
+        result.Should().NotBeNull();        
     }
 
 /*
